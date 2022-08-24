@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="uk">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="uk" authors="&#x426;&#x435;&#x43D;&#x442;&#x440; &#x430;&#x43C;&#x435;&#x440;&#x438;&#x43A;&#x430;&#x43D;&#x441;&#x44C;&#x43A;&#x438;&#x445; &#x43B;&#x456;&#x442;&#x435;&#x440;&#x430;&#x442;&#x443;&#x440;&#x43D;&#x438;&#x445; &#x441;&#x442;&#x443;&#x434;&#x456;&#x439; &#x432; &#x423;&#x43A;&#x440;&#x430;&#x457;&#x43D;&#x456;">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col10545</md:content-id>
-    <md:title>Дискурс романтизму в літературі США</md:title>
+    <md:title>&#x414;&#x438;&#x441;&#x43A;&#x443;&#x440;&#x441; &#x440;&#x43E;&#x43C;&#x430;&#x43D;&#x442;&#x438;&#x437;&#x43C;&#x443; &#x432; &#x43B;&#x456;&#x442;&#x435;&#x440;&#x430;&#x442;&#x443;&#x440;&#x456; &#x421;&#x428;&#x410;</md:title>
     <md:language>uk</md:language>
     <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License</md:license>
     <md:uuid>6e54ed13-9358-416c-9214-50eadac6389d</md:uuid>
-<md:slug>diskurs-romantizmu-v-literaturi-ssha</md:slug>
-</metadata>
+    <md:slug>diskurs-romantizmu-v-literaturi-ssha</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m16649"/>
     <col:module document="m16650"/>
